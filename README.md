@@ -62,4 +62,12 @@ $ ./dist/atom # after distribution
 ```
 
 
+## Test
+
+```sh
+$ npm install -g mocha
+$ npm test
+```
+
+
 [livereload]: https://github.com/gruntjs/grunt-contrib-watch#enabling-live-reload-in-your-html
