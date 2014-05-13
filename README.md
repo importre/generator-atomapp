@@ -21,7 +21,7 @@ $ grunt
 
 Add following script to your `html` you want.
 
-```js
+```html
 <script src="http://localhost:35729/livereload.js"></script>
 ```
 
