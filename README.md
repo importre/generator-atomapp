@@ -8,6 +8,7 @@ atom app generator
 
 ```sh
 $ npm install -g yo generator-atomapp
+$ mkdir MyAtomApp && cd $_
 $ yo atomapp
 ```
 
