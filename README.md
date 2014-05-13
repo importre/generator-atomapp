@@ -1,6 +1,8 @@
 generator-atomapp
 =================
 
+[![Build Status](https://drone.io/github.com/importre/generator-atomapp/status.png)](https://drone.io/github.com/importre/generator-atomapp/latest)
+
 atom app generator
 
 
