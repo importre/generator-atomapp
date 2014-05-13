@@ -1,0 +1,21 @@
+{
+  "name": "<%= appName %>",
+  "version": "0.0.0",
+  "dependencies": {
+    "grunt": "~0.4.4"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-download-atom-shell": "~0.7.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-shell": "~0.7.0",
+    "grunt-parallel": "^0.3.1",
+    "grunt-contrib-jshint": "~0.10.0",
+    "load-grunt-tasks": "~0.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD"
+}

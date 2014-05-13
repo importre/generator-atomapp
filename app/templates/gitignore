@@ -1,0 +1,6 @@
+.*.swp
+.swp
+out
+node_modules
+.idea
+app/bower_components

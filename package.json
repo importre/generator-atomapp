@@ -1,0 +1,29 @@
+{
+  "name": "generator-atomapp",
+  "version": "0.1.0",
+  "description": "atom app generator",
+  "license": "BSD",
+  "main": "app/index.js",
+  "repository": "importre/generator-atomapp",
+  "author": {
+    "name": "Jaewe Heo",
+    "email": "jaeweheo@gmail.com",
+    "url": "https://github.com/importre"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "~0.16.0",
+    "chalk": "~0.4.0"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  }
+}
