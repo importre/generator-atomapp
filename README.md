@@ -5,6 +5,7 @@ generator-atomapp
 
 atom app generator
 
+![atomapp](https://raw.githubusercontent.com/importre/resources/master/generator-atomapp/atomapp.gif)
 
 ## Usage
 
