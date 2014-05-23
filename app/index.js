@@ -34,7 +34,7 @@ var AtomAppGenerator = yeoman.generators.Base.extend({
       {
         name: 'atomShellVersion',
         message: 'atom-shell version',
-        default: (this.atomShellVersion) ? this.atomShellVersion : '0.12.4'
+        default: (this.atomShellVersion) ? this.atomShellVersion : '0.12.5'
       }
     ];
 
