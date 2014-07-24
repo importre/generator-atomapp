@@ -1,6 +1,6 @@
 {
   "name": "generator-atomapp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "atom app generator",
   "license": "BSD",
   "main": "app/index.js",
